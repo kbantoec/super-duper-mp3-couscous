@@ -1,0 +1,7 @@
+# Folders
+mp3/
+__pycache__/
+.idea/
+
+# Files
+#.gitignore
